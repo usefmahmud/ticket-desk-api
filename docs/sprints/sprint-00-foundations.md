@@ -9,7 +9,7 @@
 - **Tasks:**
   - [ ] `nest new ticketdesk`
   - [ ] Create empty modules for each domain in §7 of the BRD
-  - [ ] Set up ESLint + Prettier
+  - [ ] Set up Oxlint + Prettier
 - **Acceptance criteria:** `npm run start:dev` boots with no errors; empty modules import cleanly into `AppModule`.
 - **Concepts:** Nest module system, dependency injection basics
 - **Estimate:** S
